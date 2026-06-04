@@ -19,7 +19,7 @@ Reactive HR Policies: Management relies on exit interviews after talent leaves, 
 - Support data-driven HR decision-making
 
 # Dashboard Pages
-Page 1: HR Attrition Overview & Financial Impact
+## *Page 1: HR Attrition Overview & Financial Impact*
 
 ![HR Attrition Dashboard](https://github.com/riyabhatts/HR-Attrition-Analytics-Dashboard/raw/main/DB%20page1.png)
 
@@ -41,7 +41,9 @@ Page 1: HR Attrition Overview & Financial Impact
 - Turnover Intensity by Job Function
 - Department-wise Attrition Analysis
 
-# Page 2: Attrition Drivers & Workforce Behavior
+## *Page 2: Attrition Drivers & Workforce Behavior*
+
+![Dashboard Page 2](https://github.com/riyabhatts/HR-Attrition-Analytics-Dashboard/raw/main/DB%20page2.png)
 
 ## *Key Analysis:*
 
