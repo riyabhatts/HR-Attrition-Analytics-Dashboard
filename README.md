@@ -21,7 +21,7 @@ Reactive HR Policies: Management relies on exit interviews after talent leaves, 
 # Dashboard Pages
 ## *Page 1: HR Attrition Overview & Financial Impact*
 
-![HR Attrition Dashboard](https://github.com/riyabhatts/HR-Attrition-Analytics-Dashboard/raw/main/DB%20page1.png)
+![HR Attrition Dashboard](https://github.com/riyabhatts/HR-Attrition-Analytics-Dashboard/blob/main/DB1.png)
 
 - Key Metrics:
 - Total Employees: 1473
