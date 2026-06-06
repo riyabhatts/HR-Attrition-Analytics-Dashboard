@@ -43,7 +43,7 @@ Reactive HR Policies: Management relies on exit interviews after talent leaves, 
 
 ## *Page 2: Attrition Drivers & Workforce Behavior*
 
-![Dashboard Page 2](https://github.com/riyabhatts/HR-Attrition-Analytics-Dashboard/raw/main/DB%20page2.png)
+![Dashboard Page 2](https://github.com/riyabhatts/HR-Attrition-Analytics-Dashboard/blob/main/DB2.png)
 
 ## *Key Analysis:*
 
